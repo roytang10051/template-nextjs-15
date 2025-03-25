@@ -1,0 +1,6 @@
+# 所有文本文件自动处理行尾符
+* text=auto
+
+# 对于特定文件类型，强制指定行尾符格式
+*.yaml text eol=lf
+*.sh text eol=lf
